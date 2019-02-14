@@ -15,8 +15,13 @@ In Alien Invasion, the player controls a ship that appears at the bottom center 
 TODO
 ----------
 . Refactor code and manage file contents to keep the project organized and the code efficient
+
 . Create a ship that moves right and left
+
 . Create fire bullets in response to player input
+
 . Add a play button to start a game on demand or to restart a game 
+
 . Change the game so it speeds up when the player moves up a level
+
 . Implement a scoring system
