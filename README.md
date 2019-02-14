@@ -1,2 +1,3 @@
 # Alien-Invasion
-Introduction
+================
+This is my EE551 python individual project | Author: Zijie Zhao
