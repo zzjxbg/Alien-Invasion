@@ -18,6 +18,12 @@ TODO
 
 . Create a ship that moves right and left
 
+. Create a single alien to the top-left corner of the screen with appropriate spacing around it.
+
+. Using the spacing around the first alien and the overall screen size to determine how many aliens can fit on the screen
+
+. limit the number of ships the player can use and end the game when the player has used up the allotment of ships 
+
 . Create fire bullets in response to player input
 
 . Add a play button to start a game on demand or to restart a game 
