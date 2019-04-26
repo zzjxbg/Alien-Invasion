@@ -14,7 +14,6 @@ In Alien Invasion, the player controls a ship that appears at the bottom center 
 
 TODO
 ----------
-. Refactor code and manage file contents to keep the project organized and the code efficient
 
 . Create a ship that moves right and left
 
